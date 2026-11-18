@@ -67,3 +67,15 @@ GitHub: AhmadFarhadAlami (https://github.com/AhmadFarhadAlami)
 Internship
 CodeAlpha Internship Program
 November 2026
+
+
+## Dashboard Screenshots
+
+### 1. HR Overview
+![HR Overview](screenshots/hr-overview.png)
+
+### 2. Recruitment Analysis
+![Recruitment Analysis](screenshots/hr-recruitment-analysis.png)
+
+### 3. Employee Performance & Satisfaction
+![Employee Performance and Satisfaction](screenshots/hr-employee-performance-satisfaction.png)
