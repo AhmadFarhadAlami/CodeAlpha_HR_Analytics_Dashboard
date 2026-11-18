@@ -72,10 +72,11 @@ November 2026
 ## Dashboard Screenshots
 
 ### 1. HR Overview
-![HR Overview](screenshots/hr-overview.png)
+![HR Overview](screenshots/hr-overview.PNG)
 
 ### 2. Recruitment Analysis
-![Recruitment Analysis](screenshots/hr-recruitment-analysis.png)
+![Recruitment Analysis](screenshots/hr-recruitment-analysis.PNG)
 
 ### 3. Employee Performance & Satisfaction
-![Employee Performance and Satisfaction](screenshots/hr-employee-performance-satisfaction.png)
+![Employee Performance and Satisfaction](screenshots/hr-employee-performance-satisfaction.PNG)
+,
